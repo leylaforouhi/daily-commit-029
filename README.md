@@ -1,4 +1,4 @@
-import rando
+import random
 
 def guess_number():
     number = random.randint(1, 10)
